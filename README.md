@@ -6,6 +6,7 @@ All Questions from 23-june-2026
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -48,4 +49,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
