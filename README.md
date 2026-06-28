@@ -21,17 +21,20 @@ All Questions from 23-june-2026
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
@@ -62,4 +65,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
