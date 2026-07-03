@@ -84,4 +84,16 @@ All Questions from 23-june-2026
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaskirat-singh-12/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaskirat-singh-12/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaskirat-singh-12/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
