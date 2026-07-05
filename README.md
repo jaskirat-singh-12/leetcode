@@ -77,6 +77,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -126,4 +127,16 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
