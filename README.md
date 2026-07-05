@@ -63,6 +63,7 @@ All Questions from 23-june-2026
 | [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
@@ -121,4 +122,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
