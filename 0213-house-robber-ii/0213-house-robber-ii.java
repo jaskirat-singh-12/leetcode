@@ -1,32 +1,33 @@
 class Solution {
-    int[] dp = new int[101];
-
     public int rob(int[] nums) {
-        if(nums.length <= 1){
+        int n = nums.length;
+        if(n == 1) {
             return nums[0];
         }
-        if(nums.length == 2){
+
+        if(n == 2) {
             return Math.max(nums[0], nums[1]);
         }
+
+        int[] dp = new int[n];
         Arrays.fill(dp, -1);
-        int take_0 = finalRobbing(nums, 0, nums.length - 2);
+
+        int take1 = rob(nums, 0, n-2, dp);
         Arrays.fill(dp, -1);
-        int take_1 = finalRobbing(nums, 1, nums.length-1);
-        return Math.max(take_1, take_0);
+        int take2 = rob(nums, 1, n-1, dp);
+        return Math.max(take1, take2);
     }
 
-    public int finalRobbing(int[] nums, int i, int n){
-        if(i > n){
+    public int rob(int[] nums, int i, int n, int[] dp) {
+        if(i > n) {
             return 0;
         }
+        if(dp[i] != -1) return dp[i];
 
-        if(dp[i] != -1){
-            return dp[i];
-        }
+        int take = nums[i] + rob(nums, i+2, n, dp);
+        int skip = rob(nums, i+1, n, dp);
 
-        int steal = nums[i] + finalRobbing(nums, i+2, n);
-        int skip = finalRobbing(nums, i+1, n);
-
-        return dp[i] = Math.max(steal, skip);
+        return dp[i] = Math.max(take, skip);
     }
 }
+
