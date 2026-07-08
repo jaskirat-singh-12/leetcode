@@ -70,6 +70,7 @@ All Questions from 23-june-2026
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +84,7 @@ All Questions from 23-june-2026
 | [0198-house-robber](https://github.com/jaskirat-singh-12/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Union-Find
 |  |
 | ------- |
