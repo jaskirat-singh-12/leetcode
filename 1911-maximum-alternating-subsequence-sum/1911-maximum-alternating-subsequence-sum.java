@@ -1,37 +1,34 @@
 class Solution {
-    long[][] dp;
-
     public long maxAlternatingSum(int[] nums) {
-        dp = new long[100001][2];
-        for (long[] row : dp) {
+        long[][] dp = new long[nums.length][2];
 
+        for(long[] row : dp) {
             Arrays.fill(row, -1);
         }
 
-        return alternatingSum(0, nums, true);
+        return maxAlternatingSum(nums, 0, true, dp);
     }
 
-    public long alternatingSum(int idx, int[] nums, boolean isEven) {
-
-        if (idx >= nums.length) {
+    public long maxAlternatingSum(int[] nums, int i, boolean isEven, long[][] dp) {
+        if(i >= nums.length) {
             return 0;
         }
-        int dp_val = isEven ? 0 : 1;
+        int evenVal = isEven ? 1 : 0;
 
-        if (dp[idx][dp_val] != -1) {
-            return dp[idx][dp_val];
+        if(dp[i][evenVal] != -1) return dp[i][evenVal];
+
+        long take = 0, skip = 0;
+
+        skip = maxAlternatingSum(nums, i+1, isEven, dp);
+
+        long val = nums[i];
+
+        if(!isEven) {
+            val = -val; // 5 => -5
         }
 
-        long skip = alternatingSum(idx + 1, nums, isEven);
+        take = maxAlternatingSum(nums, i+1, !isEven, dp) + val; // -5
 
-        long val = nums[idx];
-
-        if (isEven == false) {
-            val = -val;
-        }
-        long taken = alternatingSum(idx + 1, nums, !isEven) + val;
-
-        return dp[idx][dp_val] = Math.max(taken, skip);
+        return dp[i][evenVal] = Math.max(take, skip);
     }
-
 }
