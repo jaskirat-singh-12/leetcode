@@ -169,4 +169,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/jaskirat-singh-12/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
