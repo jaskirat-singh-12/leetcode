@@ -158,6 +158,7 @@ All Questions from 23-june-2026
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jaskirat-singh-12/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -184,4 +185,5 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jaskirat-singh-12/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
