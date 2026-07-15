@@ -9,6 +9,7 @@ All Questions from 23-june-2026
 | [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ All Questions from 23-june-2026
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,6 +171,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Greedy
 |  |
 | ------- |
