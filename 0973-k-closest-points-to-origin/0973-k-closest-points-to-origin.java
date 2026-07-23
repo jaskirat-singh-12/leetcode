@@ -12,9 +12,7 @@ class Solution {
         int[][] ans = new int[k][2];
 
         for(int i = 0; i < k; i++) {
-            ans[i][0] = pq.peek()[0];
-            ans[i][1] = pq.peek()[1];
-            pq.poll();
+            ans[i] = pq.poll();
         }
         return ans;
     }
