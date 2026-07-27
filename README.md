@@ -87,6 +87,7 @@ All Questions from 23-june-2026
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -152,6 +153,7 @@ All Questions from 23-june-2026
 | [0023-merge-k-sorted-lists](https://github.com/jaskirat-singh-12/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -172,6 +174,7 @@ All Questions from 23-june-2026
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
