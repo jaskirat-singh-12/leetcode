@@ -35,6 +35,7 @@ All Questions from 23-june-2026
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ All Questions from 23-june-2026
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -98,6 +100,7 @@ All Questions from 23-june-2026
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -136,6 +139,7 @@ All Questions from 23-june-2026
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +148,7 @@ All Questions from 23-june-2026
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
