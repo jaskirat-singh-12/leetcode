@@ -14,23 +14,22 @@
  * }
  */
 class Solution {
+    int ans = 0;
     public int goodNodes(TreeNode root) {
         int max = Integer.MIN_VALUE;
-        return goodNodes(root, max);
+        goodNodes(root, max);
+        return ans;
     }
 
-    public int goodNodes(TreeNode root, int max) {
-        if(root == null) return 0;
-        int ans = 0;
+    public void goodNodes(TreeNode root, int max) {
+        if(root == null) return;
 
         if(root.val >= max) {
             ans++;
-            max = root.val;
         };
 
-        ans += goodNodes(root.left,max);
-        ans += goodNodes(root.right,max);
+        goodNodes(root.left, Math.max(max, root.val));
+        goodNodes(root.right, Math.max(max, root.val));
 
-        return ans;
     }
 }
