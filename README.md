@@ -8,6 +8,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -17,6 +18,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
+| [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -43,6 +45,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jaskirat-singh-12/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
@@ -277,4 +280,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaskirat-singh-12/leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
