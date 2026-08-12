@@ -39,6 +39,7 @@ All Questions from 23-june-2026
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -56,6 +57,7 @@ All Questions from 23-june-2026
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -66,11 +68,13 @@ All Questions from 23-june-2026
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaskirat-singh-12/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Backtracking
 |  |
 | ------- |
@@ -284,4 +288,12 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
