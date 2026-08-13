@@ -42,6 +42,7 @@ All Questions from 23-june-2026
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ All Questions from 23-june-2026
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -124,6 +126,7 @@ All Questions from 23-june-2026
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -162,6 +165,7 @@ All Questions from 23-june-2026
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +176,7 @@ All Questions from 23-june-2026
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +206,7 @@ All Questions from 23-june-2026
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -246,6 +252,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Greedy
 |  |
@@ -299,4 +306,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
