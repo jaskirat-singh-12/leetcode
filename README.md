@@ -75,12 +75,14 @@ All Questions from 23-june-2026
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaskirat-singh-12/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +163,7 @@ All Questions from 23-june-2026
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union-Find
 |  |
@@ -315,8 +318,10 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
