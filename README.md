@@ -12,6 +12,7 @@ All Questions from 23-june-2026
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## String
 |  |
@@ -133,6 +134,7 @@ All Questions from 23-june-2026
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -277,6 +279,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/jaskirat-singh-12/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Enumeration
 |  |
@@ -356,4 +359,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
