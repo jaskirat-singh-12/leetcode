@@ -119,6 +119,7 @@ All Questions from 23-june-2026
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jaskirat-singh-12/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
@@ -157,6 +158,7 @@ All Questions from 23-june-2026
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jaskirat-singh-12/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0518-coin-change-ii) |
@@ -242,6 +244,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
@@ -253,6 +256,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -330,13 +334,16 @@ All Questions from 23-june-2026
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jaskirat-singh-12/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
