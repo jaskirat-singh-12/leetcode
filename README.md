@@ -125,6 +125,7 @@ All Questions from 23-june-2026
 | [0628-maximum-product-of-three-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
@@ -162,6 +163,7 @@ All Questions from 23-june-2026
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -242,6 +244,7 @@ All Questions from 23-june-2026
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -324,4 +327,16 @@ All Questions from 23-june-2026
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
