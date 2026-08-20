@@ -142,6 +142,7 @@ All Questions from 23-june-2026
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaskirat-singh-12/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/jaskirat-singh-12/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
 |  |
@@ -295,6 +296,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaskirat-singh-12/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
 |  |
 | ------- |
