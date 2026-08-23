@@ -114,6 +114,7 @@ All Questions from 23-june-2026
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/jaskirat-singh-12/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0213-house-robber-ii) |
@@ -237,6 +238,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ All Questions from 23-june-2026
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
