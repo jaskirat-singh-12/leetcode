@@ -141,6 +141,7 @@ All Questions from 23-june-2026
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -178,6 +179,7 @@ All Questions from 23-june-2026
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -265,6 +267,7 @@ All Questions from 23-june-2026
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -360,6 +363,7 @@ All Questions from 23-june-2026
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -367,6 +371,7 @@ All Questions from 23-june-2026
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
@@ -375,10 +380,12 @@ All Questions from 23-june-2026
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
