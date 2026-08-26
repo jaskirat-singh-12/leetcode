@@ -25,6 +25,7 @@ All Questions from 23-june-2026
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ All Questions from 23-june-2026
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
