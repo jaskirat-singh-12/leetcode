@@ -28,8 +28,10 @@ class Solution {
             dp[i][len] = ans ? 1 : 0;
             return ans;
         }
-        boolean ans = wordbreak(s, i, len+1 , set, dp);
-        dp[i][len] = ans ? 1 : 0;
-        return ans;
+        else{
+            boolean ans = wordbreak(s, i, len+1 , set, dp);
+            dp[i][len] = ans ? 1 : 0;
+            return ans;
+        }
     }
 }
