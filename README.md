@@ -9,6 +9,7 @@ All Questions from 23-june-2026
 | [0001-two-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -21,6 +22,7 @@ All Questions from 23-june-2026
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -118,6 +120,7 @@ All Questions from 23-june-2026
 | [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -170,6 +173,7 @@ All Questions from 23-june-2026
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jaskirat-singh-12/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0213-house-robber-ii) |
@@ -292,6 +296,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/jaskirat-singh-12/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -404,4 +409,12 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
