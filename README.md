@@ -25,6 +25,7 @@ All Questions from 23-june-2026
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -184,6 +185,7 @@ All Questions from 23-june-2026
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jaskirat-singh-12/leetcode/tree/master/0198-house-robber) |
