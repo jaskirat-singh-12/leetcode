@@ -25,6 +25,7 @@ All Questions from 23-june-2026
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/jaskirat-singh-12/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/jaskirat-singh-12/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
@@ -191,6 +192,7 @@ All Questions from 23-june-2026
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jaskirat-singh-12/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/jaskirat-singh-12/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
