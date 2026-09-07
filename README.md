@@ -30,6 +30,7 @@ All Questions from 23-june-2026
 | [0132-palindrome-partitioning-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
@@ -211,6 +212,7 @@ All Questions from 23-june-2026
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
