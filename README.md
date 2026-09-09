@@ -60,6 +60,7 @@ All Questions from 23-june-2026
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -83,6 +84,7 @@ All Questions from 23-june-2026
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -116,6 +118,7 @@ All Questions from 23-june-2026
 | [0199-binary-tree-right-side-view](https://github.com/jaskirat-singh-12/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +219,7 @@ All Questions from 23-june-2026
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -251,6 +255,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jaskirat-singh-12/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -335,6 +340,7 @@ All Questions from 23-june-2026
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Greedy
@@ -441,6 +447,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Common Subsequence
 |  |
@@ -454,4 +461,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
