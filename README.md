@@ -181,6 +181,7 @@ All Questions from 23-june-2026
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -233,6 +234,7 @@ All Questions from 23-june-2026
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
@@ -309,6 +311,7 @@ All Questions from 23-june-2026
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +355,7 @@ All Questions from 23-june-2026
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
