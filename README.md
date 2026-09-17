@@ -15,6 +15,7 @@ All Questions from 23-june-2026
 | [1189-maximum-number-of-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -172,6 +173,7 @@ All Questions from 23-june-2026
 | [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
@@ -230,6 +232,7 @@ All Questions from 23-june-2026
 | [1143-longest-common-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/jaskirat-singh-12/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
@@ -281,6 +284,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
@@ -358,6 +362,7 @@ All Questions from 23-june-2026
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaskirat-singh-12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
