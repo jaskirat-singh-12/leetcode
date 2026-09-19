@@ -335,6 +335,7 @@ All Questions from 23-june-2026
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaskirat-singh-12/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
@@ -402,6 +403,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaskirat-singh-12/leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/jaskirat-singh-12/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaskirat-singh-12/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quickselect
 |  |
 | ------- |
