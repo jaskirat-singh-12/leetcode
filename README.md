@@ -191,6 +191,7 @@ All Questions from 23-june-2026
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/jaskirat-singh-12/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -244,6 +245,7 @@ All Questions from 23-june-2026
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -342,6 +344,7 @@ All Questions from 23-june-2026
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaskirat-singh-12/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jaskirat-singh-12/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/jaskirat-singh-12/leetcode/tree/master/3870-count-commas-in-range) |
