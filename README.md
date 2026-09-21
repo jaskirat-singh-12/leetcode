@@ -60,6 +60,7 @@ All Questions from 23-june-2026
 | [0210-course-schedule-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -83,6 +84,7 @@ All Questions from 23-june-2026
 | [0322-coin-change](https://github.com/jaskirat-singh-12/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaskirat-singh-12/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -163,6 +165,7 @@ All Questions from 23-june-2026
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jaskirat-singh-12/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/jaskirat-singh-12/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/0877-stone-game) |
@@ -252,6 +255,7 @@ All Questions from 23-june-2026
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -260,6 +264,7 @@ All Questions from 23-june-2026
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaskirat-singh-12/leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/jaskirat-singh-12/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
