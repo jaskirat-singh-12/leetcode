@@ -148,6 +148,7 @@ All Questions from 23-june-2026
 | [0039-combination-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
@@ -267,6 +268,7 @@ All Questions from 23-june-2026
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0542-01-matrix) |
@@ -415,6 +417,7 @@ All Questions from 23-june-2026
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0054-spiral-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaskirat-singh-12/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/3498-reverse-degree-of-a-string) |
