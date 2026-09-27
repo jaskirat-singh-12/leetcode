@@ -124,6 +124,7 @@ All Questions from 23-june-2026
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/jaskirat-singh-12/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
@@ -152,6 +153,7 @@ All Questions from 23-june-2026
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/jaskirat-singh-12/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaskirat-singh-12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/jaskirat-singh-12/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/jaskirat-singh-12/leetcode/tree/master/0139-word-break) |
@@ -507,6 +509,7 @@ All Questions from 23-june-2026
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jaskirat-singh-12/leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
