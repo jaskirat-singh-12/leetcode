@@ -27,6 +27,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/jaskirat-singh-12/leetcode/tree/master/0115-distinct-subsequences) |
@@ -121,6 +122,7 @@ All Questions from 23-june-2026
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -217,6 +219,7 @@ All Questions from 23-june-2026
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/jaskirat-singh-12/leetcode/tree/master/0053-maximum-subarray) |
@@ -523,4 +526,8 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
