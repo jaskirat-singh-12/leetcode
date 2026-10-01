@@ -126,6 +126,7 @@ All Questions from 23-june-2026
 | [0039-combination-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/jaskirat-singh-12/leetcode/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
@@ -165,6 +166,7 @@ All Questions from 23-june-2026
 | [0198-house-robber](https://github.com/jaskirat-singh-12/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/jaskirat-singh-12/leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/jaskirat-singh-12/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/jaskirat-singh-12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/jaskirat-singh-12/leetcode/tree/master/0312-burst-balloons) |
