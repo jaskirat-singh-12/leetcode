@@ -27,6 +27,7 @@ All Questions from 23-june-2026
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaskirat-singh-12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jaskirat-singh-12/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/jaskirat-singh-12/leetcode/tree/master/0091-decode-ways) |
@@ -292,6 +293,7 @@ All Questions from 23-june-2026
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaskirat-singh-12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/jaskirat-singh-12/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
@@ -538,5 +540,6 @@ All Questions from 23-june-2026
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
