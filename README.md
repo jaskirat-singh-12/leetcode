@@ -217,6 +217,7 @@ All Questions from 23-june-2026
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaskirat-singh-12/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaskirat-singh-12/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -361,6 +362,7 @@ All Questions from 23-june-2026
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/jaskirat-singh-12/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaskirat-singh-12/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -424,6 +426,7 @@ All Questions from 23-june-2026
 | [1927-sum-game](https://github.com/jaskirat-singh-12/leetcode/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/jaskirat-singh-12/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jaskirat-singh-12/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
