@@ -19,6 +19,7 @@ All Questions from 23-june-2026
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaskirat-singh-12/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaskirat-singh-12/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaskirat-singh-12/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -208,6 +209,7 @@ All Questions from 23-june-2026
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/jaskirat-singh-12/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jaskirat-singh-12/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jaskirat-singh-12/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -560,4 +562,12 @@ All Questions from 23-june-2026
 | [0032-longest-valid-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/jaskirat-singh-12/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jaskirat-singh-12/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
