@@ -208,6 +208,7 @@ All Questions from 23-june-2026
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaskirat-singh-12/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/jaskirat-singh-12/leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jaskirat-singh-12/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaskirat-singh-12/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -364,6 +365,7 @@ All Questions from 23-june-2026
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaskirat-singh-12/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jaskirat-singh-12/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/jaskirat-singh-12/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -420,6 +422,7 @@ All Questions from 23-june-2026
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaskirat-singh-12/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/jaskirat-singh-12/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaskirat-singh-12/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
