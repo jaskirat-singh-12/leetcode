@@ -76,6 +76,7 @@ All Questions from 23-june-2026
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -103,6 +104,7 @@ All Questions from 23-june-2026
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -194,6 +196,7 @@ All Questions from 23-june-2026
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/jaskirat-singh-12/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/jaskirat-singh-12/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/jaskirat-singh-12/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1386-cinema-seat-allocation](https://github.com/jaskirat-singh-12/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -287,6 +290,7 @@ All Questions from 23-june-2026
 | [0547-number-of-provinces](https://github.com/jaskirat-singh-12/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jaskirat-singh-12/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -301,6 +305,7 @@ All Questions from 23-june-2026
 | [0994-rotting-oranges](https://github.com/jaskirat-singh-12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
