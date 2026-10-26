@@ -81,6 +81,7 @@ All Questions from 23-june-2026
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jaskirat-singh-12/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ All Questions from 23-june-2026
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -225,6 +227,7 @@ All Questions from 23-june-2026
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaskirat-singh-12/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaskirat-singh-12/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jaskirat-singh-12/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaskirat-singh-12/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -292,6 +295,7 @@ All Questions from 23-june-2026
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +312,7 @@ All Questions from 23-june-2026
 | [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaskirat-singh-12/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
