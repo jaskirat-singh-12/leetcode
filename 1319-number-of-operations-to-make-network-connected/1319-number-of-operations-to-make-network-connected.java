@@ -1,10 +1,15 @@
 class Solution {
+    int[] parent;
+    int[] rank;
     public int makeConnected(int n, int[][] connections) {
-        if(connections.length < n-1) {
-            return -1;
-        }
+        if(connections.length < n-1) return -1;
+        parent = new int[n];
+        rank = new int[n];
 
-        boolean[] vis = new boolean[n];
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+            rank[i] = 0;
+        }
 
         Map<Integer, List<Integer>> graph = new HashMap<>();
 
@@ -20,34 +25,43 @@ class Solution {
             graph.get(v).add(u);
         }
 
-        int count = 0;
+        int com = n;
 
-        for(int i = 0; i < n; i++) {
-            if(!vis[i]) {
-                bfs(graph, vis, i);
-                count++;
+        for(int i = 0; i < connections.length; i++) {
+            int x = find(connections[i][0]);
+            int y = find(connections[i][1]);
+
+            if(x != y) {
+                union(x,y);
+                com--;
             }
         }
-        return count-1;
+        return com-1;
+
+
     }
 
-    public void bfs(Map<Integer, List<Integer>> graph, boolean[] vis, int start) {
+    public int find(int x) {
+        if(parent[x] == x) return x;
 
-        Queue<Integer> q = new LinkedList<>();
+        return parent[x] = find(parent[x]);
+    }
 
-        q.offer(start);
-        vis[start] = true;
+    public void union(int x, int y) {
+        int par_x = find(x);
+        int par_y = find(y);
 
-        while(!q.isEmpty()) {
-            int main = q.poll();
+        // if(par_x == par_y) return;
 
-            for(int nei : graph.get(main)){
-                if(!vis[nei]) {
-                    q.offer(nei);
-                    vis[nei] = true;
-                }
-            }
+        if(rank[par_x] < rank[par_y]) {
+            parent[par_x] = par_y;
         }
-        
+        else if(rank[par_x] > rank[par_y]) {
+            parent[par_y] = par_x;
+        }
+        else{
+            parent[par_x] = par_y;
+            rank[par_y]++;
+        }
     }
 }
