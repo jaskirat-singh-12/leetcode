@@ -78,6 +78,7 @@ All Questions from 23-june-2026
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jaskirat-singh-12/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -107,6 +108,7 @@ All Questions from 23-june-2026
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaskirat-singh-12/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jaskirat-singh-12/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaskirat-singh-12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/jaskirat-singh-12/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -124,6 +126,7 @@ All Questions from 23-june-2026
 | [0797-all-paths-from-source-to-target](https://github.com/jaskirat-singh-12/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/jaskirat-singh-12/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/jaskirat-singh-12/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jaskirat-singh-12/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaskirat-singh-12/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -300,6 +303,7 @@ All Questions from 23-june-2026
 | [0990-satisfiability-of-equality-equations](https://github.com/jaskirat-singh-12/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/jaskirat-singh-12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jaskirat-singh-12/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jaskirat-singh-12/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jaskirat-singh-12/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaskirat-singh-12/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
